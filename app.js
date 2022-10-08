@@ -1,5 +1,7 @@
 class Casino {
-    // Write code here
+    constructor(){
+        
+    }
 };
 
 // TESTS
